@@ -11,4 +11,4 @@ Project for Intro to Artificial Intelligence. Designed a Genetic Algorithm to cr
 Used Tournament Selection to determine the next generation to avoid overfitting and then used crossover twice (to create two children) from both parents. Population of each generation 500, iterated at least 100 times and the improvement was less that 1%. Mutation rate 1% initially but gradually decreases.
 
 
-Neural Network Python: Neural Network designed to predict whether or not a patient had heart disease or not CSV Data is included. Created using Tensorflow and Keras. This project required tons of research but most of the code has sources within. Write up is included in the Zip file. This also included the averages gotten. 
+Neural Network Python: Neural Network designed to predict whether or not a patient had heart disease or not CSV Data is included. Created using Tensorflow and Keras. This project required tons of research but most of the code has sources within. Write up is included in the Zip file. This also includes how accurate the the model was at the end of the project.
