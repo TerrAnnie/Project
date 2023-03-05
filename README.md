@@ -15,3 +15,6 @@ Neural Network Python: Neural Network designed to predict whether or not a patie
 
 
 Senior Capstone Project: Goal was to create a Grader/GTA portal for the university. Students would be able to apply for a grader position for courses, and admins would be able to make listings for courses as well. Was a group Project. The zip includes the PHP, SQL, and HTML/CSS. The webpage connects to the database which stores courses, students, professors, and other information. I mostly worked with PHP and HTML for the duration of the project. Did some Database cleanup work as well.
+
+
+Afforable Housing Project- Basic Decesion tree for Developers and Clients(Homeowners). Created in Python. 
