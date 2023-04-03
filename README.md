@@ -3,7 +3,7 @@ Repository For all the Major Projects I've worked on throughout the years
 
 SOS Game in Java: SOS Program created in Java for Software engineering course. Also includes GUI built with Java swing. Also an option for AI players. Records the game and outputs to file once it's over. Users have an option to choose board size and Play with AI as well can also be AI against AI. They can also choose if they want to be red or blue. This project was designed to use agile methodology, along with OOP practices.
 Bugs (Features ;) )include lines that are made when a player scores are not always outputted when correct(Link in google drive file is too big for github)
-
+https://drive.google.com/file/d/1MzaZSlsbyWSISLeLzMG17SOHrL9_DH4X/view?usp=sharing 
 
 
 Python Genetic Algorithim:
